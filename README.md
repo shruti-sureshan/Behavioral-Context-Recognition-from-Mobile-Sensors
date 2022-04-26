@@ -1,6 +1,6 @@
 # Mobile-and-Pervasive-Computing
 
-Behavioural context recognition from Mobile sensors<br/>
+Behavioural context recognition and analysis from Mobile sensors<br/>
 Paper presentation -- done -- submitted<br/>
 log reg, knn, rf, kmenas, gmm, pca---- research paper publish, literature survey<br/>
 multimodal deep learning, zero shot, few shot<br/>
