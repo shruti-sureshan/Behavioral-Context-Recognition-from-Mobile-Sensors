@@ -1,6 +1,7 @@
 # Mobile-and-Pervasive-Computing
 
 Behavioural context recognition and analysis from Mobile sensors<br/>
+TRY RNN, LSTM <br/>
 Multi class classification --done<br/>
 report --pending<br/>
 slides --done<br/>
