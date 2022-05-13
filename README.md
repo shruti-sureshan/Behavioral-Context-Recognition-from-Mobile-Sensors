@@ -1,9 +1,14 @@
 # Behavioural Context Recognition from Mobile Sensors
 
+
 <p align="justify">
     Behavioral Context refers to a wide range of attributes describing what is going on with the user like: where the user is (at home, at work), what the user is doing (sleeping, eating, in a meeting, exercising), who the user is with (family, friends, co-workers), user’s body posture state (sitting, standing, walking, running), and so on. In this project, we analyzed data obtained from various sensors present in smartphones and smartwatches, and found how a unique combination of these data points can be used to identify a user uniquely. To facilitate our project, we made use of the 'Extrasensory' dataset and performed the task of behavioral context recognition by using Machine Learning algorithms like Logistic Regression, K-Nearest Neighbors, Random Forest, K-means Clustering, Gaussian Mixture Model, Dimensionality reduction using Principal Component Analysis, Artificial Neural Network and Multiclass classification using Multilayer Perceptron.
 </p>  
 
+
+<p align="center">
+  <img width="900" src="img.JPG">
+</p>
 
 ## Experiments Performed for Behavioural Context Recognition:
 
