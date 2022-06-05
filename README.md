@@ -1,4 +1,4 @@
-# Behavioural Context Recognition from Mobile Sensors
+# Behavioral Context Recognition from Mobile Sensors
 
 
 <p align="justify">
